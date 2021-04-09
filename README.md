@@ -39,7 +39,7 @@ Database is made of mainly dataframes and lists.
 The repo includes:
  - The recomender noteboook that creates dataframes and the feature code.
  - the module notebook that clusters songs in preperation for prediction.
- - a pickle from with trained module that can be used in the recomender notebook
+ - 2 picklse with trained module and scaler that can be used in the recomender notebook
  - please note that you need to set up your spotipy config file to use this code.
  - Presentation Video
 
